@@ -1,0 +1,1 @@
+This is the repository for intentional "stable" releases. This includes CTP, Alpha, Beta, RC, and Final type releases.
